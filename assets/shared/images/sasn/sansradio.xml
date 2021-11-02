@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="sansradio.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="sansradio down0000" x="0" y="0" width="622" height="489"/>
+	<SubTexture name="sansradio down0001" x="0" y="0" width="622" height="489"/>
+	<SubTexture name="sansradio down0002" x="622" y="0" width="622" height="489"/>
+	<SubTexture name="sansradio down0003" x="622" y="0" width="622" height="489"/>
+	<SubTexture name="sansradio idle0000" x="1244" y="0" width="622" height="489" frameX="0" frameY="0" frameWidth="622" frameHeight="491"/>
+	<SubTexture name="sansradio idle0001" x="1244" y="0" width="622" height="489" frameX="0" frameY="0" frameWidth="622" frameHeight="491"/>
+	<SubTexture name="sansradio idle0002" x="0" y="489" width="622" height="491"/>
+	<SubTexture name="sansradio idle0003" x="0" y="489" width="622" height="491"/>
+	<SubTexture name="sansradio idle0004" x="622" y="489" width="622" height="489" frameX="0" frameY="0" frameWidth="622" frameHeight="491"/>
+	<SubTexture name="sansradio idle0005" x="622" y="489" width="622" height="489" frameX="0" frameY="0" frameWidth="622" frameHeight="491"/>
+	<SubTexture name="sansradio idle0006" x="1244" y="489" width="622" height="489" frameX="0" frameY="0" frameWidth="622" frameHeight="491"/>
+	<SubTexture name="sansradio idle0007" x="1244" y="489" width="622" height="489" frameX="0" frameY="0" frameWidth="622" frameHeight="491"/>
+	<SubTexture name="sansradio idle0008" x="1244" y="489" width="622" height="489" frameX="0" frameY="0" frameWidth="622" frameHeight="491"/>
+	<SubTexture name="sansradio idle0009" x="1244" y="489" width="622" height="489" frameX="0" frameY="0" frameWidth="622" frameHeight="491"/>
+	<SubTexture name="sansradio idle0010" x="1244" y="489" width="622" height="489" frameX="0" frameY="0" frameWidth="622" frameHeight="491"/>
+	<SubTexture name="sansradio idle0011" x="1244" y="489" width="622" height="489" frameX="0" frameY="0" frameWidth="622" frameHeight="491"/>
+	<SubTexture name="sansradio left0000" x="0" y="980" width="622" height="489"/>
+	<SubTexture name="sansradio left0001" x="0" y="980" width="622" height="489"/>
+	<SubTexture name="sansradio left0002" x="622" y="980" width="622" height="489"/>
+	<SubTexture name="sansradio left0003" x="622" y="980" width="622" height="489"/>
+	<SubTexture name="sansradio right0000" x="1244" y="980" width="622" height="491"/>
+	<SubTexture name="sansradio right0001" x="1244" y="980" width="622" height="491"/>
+	<SubTexture name="sansradio right0002" x="0" y="1471" width="622" height="491"/>
+	<SubTexture name="sansradio right0003" x="0" y="1471" width="622" height="491"/>
+	<SubTexture name="sansradio up0000" x="622" y="1471" width="622" height="492"/>
+	<SubTexture name="sansradio up0001" x="622" y="1471" width="622" height="492"/>
+	<SubTexture name="sansradio up0002" x="1244" y="1471" width="622" height="492"/>
+	<SubTexture name="sansradio up0003" x="1244" y="1471" width="622" height="492"/>
+</TextureAtlas>

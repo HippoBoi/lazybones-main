@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="sansdark.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="sansdark down0000" x="0" y="0" width="392" height="489"/>
+	<SubTexture name="sansdark down0001" x="0" y="0" width="392" height="489"/>
+	<SubTexture name="sansdark down0002" x="392" y="0" width="392" height="489"/>
+	<SubTexture name="sansdark down0003" x="784" y="0" width="392" height="489"/>
+	<SubTexture name="sansdark down0004" x="1176" y="0" width="392" height="489"/>
+	<SubTexture name="sansdark down0005" x="1568" y="0" width="392" height="489"/>
+	<SubTexture name="sansdark idle0000" x="0" y="489" width="251" height="429" frameX="-2" frameY="-23" frameWidth="253" frameHeight="452"/>
+	<SubTexture name="sansdark idle0001" x="0" y="489" width="251" height="429" frameX="-2" frameY="-23" frameWidth="253" frameHeight="452"/>
+	<SubTexture name="sansdark idle0002" x="251" y="489" width="251" height="440" frameX="-1" frameY="-12" frameWidth="253" frameHeight="452"/>
+	<SubTexture name="sansdark idle0003" x="251" y="489" width="251" height="440" frameX="-1" frameY="-12" frameWidth="253" frameHeight="452"/>
+	<SubTexture name="sansdark idle0004" x="502" y="489" width="250" height="452" frameX="-2" frameY="0" frameWidth="253" frameHeight="452"/>
+	<SubTexture name="sansdark idle0005" x="502" y="489" width="250" height="452" frameX="-2" frameY="0" frameWidth="253" frameHeight="452"/>
+	<SubTexture name="sansdark idle0006" x="752" y="489" width="251" height="450" frameX="0" frameY="-2" frameWidth="253" frameHeight="452"/>
+	<SubTexture name="sansdark idle0007" x="752" y="489" width="251" height="450" frameX="0" frameY="-2" frameWidth="253" frameHeight="452"/>
+	<SubTexture name="sansdark idle0008" x="752" y="489" width="251" height="450" frameX="0" frameY="-2" frameWidth="253" frameHeight="452"/>
+	<SubTexture name="sansdark idle0009" x="752" y="489" width="251" height="450" frameX="0" frameY="-2" frameWidth="253" frameHeight="452"/>
+	<SubTexture name="sansdark idle0010" x="752" y="489" width="251" height="450" frameX="0" frameY="-2" frameWidth="253" frameHeight="452"/>
+	<SubTexture name="sansdark idle0011" x="752" y="489" width="251" height="450" frameX="0" frameY="-2" frameWidth="253" frameHeight="452"/>
+	<SubTexture name="sansdark left0000" x="1003" y="489" width="392" height="491"/>
+	<SubTexture name="sansdark left0001" x="1003" y="489" width="392" height="491"/>
+	<SubTexture name="sansdark left0002" x="1395" y="489" width="392" height="491"/>
+	<SubTexture name="sansdark left0003" x="0" y="980" width="392" height="491"/>
+	<SubTexture name="sansdark left0004" x="392" y="980" width="392" height="491"/>
+	<SubTexture name="sansdark right0000" x="784" y="980" width="392" height="493"/>
+	<SubTexture name="sansdark right0001" x="784" y="980" width="392" height="493"/>
+	<SubTexture name="sansdark right0002" x="1176" y="980" width="392" height="493"/>
+	<SubTexture name="sansdark right0003" x="1568" y="980" width="392" height="493"/>
+	<SubTexture name="sansdark right0004" x="0" y="1473" width="392" height="493"/>
+	<SubTexture name="sansdark right0005" x="392" y="1473" width="392" height="493"/>
+	<SubTexture name="sansdark up0000" x="784" y="1473" width="392" height="494" frameX="0" frameY="0" frameWidth="392" frameHeight="495"/>
+	<SubTexture name="sansdark up0001" x="784" y="1473" width="392" height="494" frameX="0" frameY="0" frameWidth="392" frameHeight="495"/>
+	<SubTexture name="sansdark up0002" x="1176" y="1473" width="392" height="495"/>
+	<SubTexture name="sansdark up0003" x="1568" y="1473" width="392" height="495"/>
+	<SubTexture name="sansdark up0004" x="0" y="1968" width="392" height="495"/>
+	<SubTexture name="sansdark up0005" x="392" y="1968" width="392" height="495"/>
+</TextureAtlas>

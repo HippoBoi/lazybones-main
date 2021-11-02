@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="dialogue2.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="dialogue20000" x="0" y="0" width="1222" height="216"/>
+	<SubTexture name="dialogue20001" x="0" y="216" width="1222" height="216"/>
+	<SubTexture name="dialogue20002" x="0" y="432" width="1222" height="216"/>
+	<SubTexture name="dialogue20003" x="0" y="648" width="1222" height="216"/>
+	<SubTexture name="dialogue20004" x="0" y="864" width="1222" height="216"/>
+	<SubTexture name="dialogue20005" x="0" y="1080" width="1222" height="216"/>
+	<SubTexture name="dialogue20006" x="0" y="1080" width="1222" height="216"/>
+	<SubTexture name="dialogue20007" x="0" y="1080" width="1222" height="216"/>
+	<SubTexture name="dialogue20008" x="0" y="1080" width="1222" height="216"/>
+	<SubTexture name="dialogue20009" x="0" y="1080" width="1222" height="216"/>
+	<SubTexture name="dialogue20010" x="0" y="1080" width="1222" height="216"/>
+	<SubTexture name="dialogue20011" x="0" y="1080" width="1222" height="216"/>
+	<SubTexture name="dialogue20012" x="0" y="1296" width="1222" height="216"/>
+	<SubTexture name="dialogue20013" x="0" y="1512" width="1222" height="216"/>
+	<SubTexture name="dialogue20014" x="0" y="1728" width="1222" height="216"/>
+	<SubTexture name="dialogue20015" x="0" y="1944" width="1222" height="216"/>
+	<SubTexture name="dialogue20016" x="0" y="2160" width="1222" height="216"/>
+	<SubTexture name="dialogue20017" x="0" y="2376" width="1222" height="216"/>
+	<SubTexture name="dialogue20018" x="0" y="2592" width="1222" height="216"/>
+	<SubTexture name="dialogue20019" x="0" y="2808" width="1222" height="216"/>
+	<SubTexture name="dialogue20020" x="0" y="2808" width="1222" height="216"/>
+	<SubTexture name="dialogue20021" x="0" y="3024" width="1222" height="216"/>
+	<SubTexture name="dialogue20022" x="0" y="3240" width="1222" height="216"/>
+	<SubTexture name="dialogue20023" x="0" y="3456" width="1222" height="216"/>
+	<SubTexture name="dialogue20024" x="0" y="3456" width="1222" height="216"/>
+	<SubTexture name="dialogue20025" x="0" y="3456" width="1222" height="216"/>
+	<SubTexture name="dialogue20026" x="0" y="3456" width="1222" height="216"/>
+	<SubTexture name="dialogue20027" x="0" y="3456" width="1222" height="216"/>
+	<SubTexture name="dialogue20028" x="0" y="3456" width="1222" height="216"/>
+	<SubTexture name="dialogue20029" x="0" y="3456" width="1222" height="216"/>
+	<SubTexture name="dialogue20030" x="0" y="3456" width="1222" height="216"/>
+	<SubTexture name="dialogue20031" x="0" y="3456" width="1222" height="216"/>
+	<SubTexture name="dialogue20032" x="0" y="3456" width="1222" height="216"/>
+	<SubTexture name="dialogue20033" x="0" y="3456" width="1222" height="216"/>
+	<SubTexture name="dialogue20034" x="0" y="3456" width="1222" height="216"/>
+	<SubTexture name="dialogue20035" x="0" y="3456" width="1222" height="216"/>
+	<SubTexture name="dialogue20036" x="0" y="3456" width="1222" height="216"/>
+	<SubTexture name="dialogue20037" x="0" y="3456" width="1222" height="216"/>
+	<SubTexture name="dialogue20038" x="0" y="3456" width="1222" height="216"/>
+	<SubTexture name="dialogue20039" x="0" y="3456" width="1222" height="216"/>
+	<SubTexture name="dialogue20040" x="0" y="3456" width="1222" height="216"/>
+	<SubTexture name="dialogue20041" x="0" y="3456" width="1222" height="216"/>
+	<SubTexture name="dialogue20042" x="0" y="3456" width="1222" height="216"/>
+	<SubTexture name="dialogue20043" x="0" y="3456" width="1222" height="216"/>
+	<SubTexture name="dialogue20044" x="0" y="3456" width="1222" height="216"/>
+	<SubTexture name="dialogue20045" x="0" y="3456" width="1222" height="216"/>
+	<SubTexture name="dialogue20046" x="0" y="3456" width="1222" height="216"/>
+	<SubTexture name="dialogue20047" x="0" y="3456" width="1222" height="216"/>
+	<SubTexture name="dialogue20048" x="0" y="3456" width="1222" height="216"/>
+	<SubTexture name="dialogue20049" x="0" y="3456" width="1222" height="216"/>
+	<SubTexture name="dialogue20050" x="0" y="3456" width="1222" height="216"/>
+	<SubTexture name="dialogue20051" x="0" y="3456" width="1222" height="216"/>
+	<SubTexture name="dialogue20052" x="0" y="3456" width="1222" height="216"/>
+	<SubTexture name="dialogue20053" x="0" y="3456" width="1222" height="216"/>
+	<SubTexture name="dialogue20054" x="0" y="3672" width="1222" height="216"/>
+</TextureAtlas>

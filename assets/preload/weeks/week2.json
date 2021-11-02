@@ -1,0 +1,30 @@
+{
+	"songs": [
+		[
+			"spooky-scary",
+			"sans",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"hideFreeplay": false,
+	"weekBackground": "sans",
+	"weekCharacters": [
+		"",
+		"bf",
+		"gf"
+	],
+	"storyName": "Spooky",
+	"weekName": "Spooky",
+	"freeplayColor": [
+		500,
+		500,
+		500
+	],
+	"hideStoryMode": false,
+	"weekBefore": "week1",
+	"startUnlocked": true
+}

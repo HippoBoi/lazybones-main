@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Dia.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="dialogue paps0000" x="0" y="0" width="1247" height="221" frameX="0" frameY="-95" frameWidth="1247" frameHeight="316"/>
+	<SubTexture name="dialogue paps0001" x="0" y="221" width="1247" height="221" frameX="0" frameY="-62" frameWidth="1247" frameHeight="316"/>
+	<SubTexture name="dialogue paps0002" x="0" y="442" width="1247" height="221" frameX="0" frameY="0" frameWidth="1247" frameHeight="316"/>
+	<SubTexture name="dialogue paps0003" x="0" y="663" width="1247" height="221" frameX="0" frameY="-1" frameWidth="1247" frameHeight="316"/>
+</TextureAtlas>

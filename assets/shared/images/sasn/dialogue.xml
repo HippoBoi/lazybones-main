@@ -1,0 +1,416 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="dialogue.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="dialogue10000" x="0" y="0" width="1269" height="216" frameX="0" frameY="0" frameWidth="1555" frameHeight="216"/>
+	<SubTexture name="dialogue10001" x="1269" y="0" width="1269" height="216" frameX="0" frameY="0" frameWidth="1555" frameHeight="216"/>
+	<SubTexture name="dialogue10002" x="2538" y="0" width="1269" height="216" frameX="0" frameY="0" frameWidth="1555" frameHeight="216"/>
+	<SubTexture name="dialogue10003" x="3807" y="0" width="1269" height="216" frameX="0" frameY="0" frameWidth="1555" frameHeight="216"/>
+	<SubTexture name="dialogue10004" x="3807" y="0" width="1269" height="216" frameX="0" frameY="0" frameWidth="1555" frameHeight="216"/>
+	<SubTexture name="dialogue10005" x="3807" y="0" width="1269" height="216" frameX="0" frameY="0" frameWidth="1555" frameHeight="216"/>
+	<SubTexture name="dialogue10006" x="5076" y="0" width="1269" height="216" frameX="0" frameY="0" frameWidth="1555" frameHeight="216"/>
+	<SubTexture name="dialogue10007" x="6345" y="0" width="1269" height="216" frameX="0" frameY="0" frameWidth="1555" frameHeight="216"/>
+	<SubTexture name="dialogue10008" x="0" y="216" width="1269" height="216" frameX="0" frameY="0" frameWidth="1555" frameHeight="216"/>
+	<SubTexture name="dialogue10009" x="1269" y="216" width="1269" height="216" frameX="0" frameY="0" frameWidth="1555" frameHeight="216"/>
+	<SubTexture name="dialogue10010" x="2538" y="216" width="1269" height="216" frameX="0" frameY="0" frameWidth="1555" frameHeight="216"/>
+	<SubTexture name="dialogue10011" x="3807" y="216" width="1269" height="216" frameX="0" frameY="0" frameWidth="1555" frameHeight="216"/>
+	<SubTexture name="dialogue10012" x="5076" y="216" width="1269" height="216" frameX="0" frameY="0" frameWidth="1555" frameHeight="216"/>
+	<SubTexture name="dialogue10013" x="6345" y="216" width="1269" height="216" frameX="0" frameY="0" frameWidth="1555" frameHeight="216"/>
+	<SubTexture name="dialogue10014" x="0" y="432" width="1269" height="216" frameX="0" frameY="0" frameWidth="1555" frameHeight="216"/>
+	<SubTexture name="dialogue10015" x="1269" y="432" width="1269" height="216" frameX="0" frameY="0" frameWidth="1555" frameHeight="216"/>
+	<SubTexture name="dialogue10016" x="2538" y="432" width="1269" height="216" frameX="0" frameY="0" frameWidth="1555" frameHeight="216"/>
+	<SubTexture name="dialogue10017" x="3807" y="432" width="1269" height="216" frameX="0" frameY="0" frameWidth="1555" frameHeight="216"/>
+	<SubTexture name="dialogue10018" x="5076" y="432" width="1269" height="216" frameX="0" frameY="0" frameWidth="1555" frameHeight="216"/>
+	<SubTexture name="dialogue10019" x="6345" y="432" width="1269" height="216" frameX="0" frameY="0" frameWidth="1555" frameHeight="216"/>
+	<SubTexture name="dialogue10020" x="0" y="648" width="1269" height="216" frameX="0" frameY="0" frameWidth="1555" frameHeight="216"/>
+	<SubTexture name="dialogue10021" x="1269" y="648" width="1269" height="216" frameX="0" frameY="0" frameWidth="1555" frameHeight="216"/>
+	<SubTexture name="dialogue10022" x="2538" y="648" width="1269" height="216" frameX="0" frameY="0" frameWidth="1555" frameHeight="216"/>
+	<SubTexture name="dialogue10023" x="3807" y="648" width="1269" height="216" frameX="0" frameY="0" frameWidth="1555" frameHeight="216"/>
+	<SubTexture name="dialogue10024" x="5076" y="648" width="1269" height="216" frameX="0" frameY="0" frameWidth="1555" frameHeight="216"/>
+	<SubTexture name="dialogue10025" x="6345" y="648" width="1269" height="216" frameX="0" frameY="0" frameWidth="1555" frameHeight="216"/>
+	<SubTexture name="dialogue10026" x="0" y="864" width="1269" height="216" frameX="0" frameY="0" frameWidth="1555" frameHeight="216"/>
+	<SubTexture name="dialogue10027" x="1269" y="864" width="1269" height="216" frameX="0" frameY="0" frameWidth="1555" frameHeight="216"/>
+	<SubTexture name="dialogue10028" x="1269" y="864" width="1269" height="216" frameX="0" frameY="0" frameWidth="1555" frameHeight="216"/>
+	<SubTexture name="dialogue10029" x="1269" y="864" width="1269" height="216" frameX="0" frameY="0" frameWidth="1555" frameHeight="216"/>
+	<SubTexture name="dialogue10030" x="1269" y="864" width="1269" height="216" frameX="0" frameY="0" frameWidth="1555" frameHeight="216"/>
+	<SubTexture name="dialogue10031" x="1269" y="864" width="1269" height="216" frameX="0" frameY="0" frameWidth="1555" frameHeight="216"/>
+	<SubTexture name="dialogue10032" x="1269" y="864" width="1269" height="216" frameX="0" frameY="0" frameWidth="1555" frameHeight="216"/>
+	<SubTexture name="dialogue10033" x="1269" y="864" width="1269" height="216" frameX="0" frameY="0" frameWidth="1555" frameHeight="216"/>
+	<SubTexture name="dialogue10034" x="1269" y="864" width="1269" height="216" frameX="0" frameY="0" frameWidth="1555" frameHeight="216"/>
+	<SubTexture name="dialogue10035" x="1269" y="864" width="1269" height="216" frameX="0" frameY="0" frameWidth="1555" frameHeight="216"/>
+	<SubTexture name="dialogue10036" x="1269" y="864" width="1269" height="216" frameX="0" frameY="0" frameWidth="1555" frameHeight="216"/>
+	<SubTexture name="dialogue10037" x="1269" y="864" width="1269" height="216" frameX="0" frameY="0" frameWidth="1555" frameHeight="216"/>
+	<SubTexture name="dialogue10038" x="1269" y="864" width="1269" height="216" frameX="0" frameY="0" frameWidth="1555" frameHeight="216"/>
+	<SubTexture name="dialogue10039" x="2538" y="864" width="1269" height="216" frameX="0" frameY="0" frameWidth="1555" frameHeight="216"/>
+	<SubTexture name="dialogue10040" x="3807" y="864" width="1269" height="216" frameX="0" frameY="0" frameWidth="1555" frameHeight="216"/>
+	<SubTexture name="dialogue10041" x="5076" y="864" width="1269" height="216" frameX="0" frameY="0" frameWidth="1555" frameHeight="216"/>
+	<SubTexture name="dialogue10042" x="6345" y="864" width="1269" height="216" frameX="0" frameY="0" frameWidth="1555" frameHeight="216"/>
+	<SubTexture name="dialogue10043" x="0" y="1080" width="1269" height="216" frameX="0" frameY="0" frameWidth="1555" frameHeight="216"/>
+	<SubTexture name="dialogue10044" x="1269" y="1080" width="1269" height="216" frameX="0" frameY="0" frameWidth="1555" frameHeight="216"/>
+	<SubTexture name="dialogue10045" x="2538" y="1080" width="1269" height="216" frameX="0" frameY="0" frameWidth="1555" frameHeight="216"/>
+	<SubTexture name="dialogue10046" x="3807" y="1080" width="1269" height="216" frameX="0" frameY="0" frameWidth="1555" frameHeight="216"/>
+	<SubTexture name="dialogue10047" x="5076" y="1080" width="1269" height="216" frameX="0" frameY="0" frameWidth="1555" frameHeight="216"/>
+	<SubTexture name="dialogue10048" x="6345" y="1080" width="1269" height="216" frameX="0" frameY="0" frameWidth="1555" frameHeight="216"/>
+	<SubTexture name="dialogue10049" x="0" y="1296" width="1269" height="216" frameX="0" frameY="0" frameWidth="1555" frameHeight="216"/>
+	<SubTexture name="dialogue10050" x="1269" y="1296" width="1269" height="216" frameX="0" frameY="0" frameWidth="1555" frameHeight="216"/>
+	<SubTexture name="dialogue10051" x="2538" y="1296" width="1269" height="216" frameX="0" frameY="0" frameWidth="1555" frameHeight="216"/>
+	<SubTexture name="dialogue10052" x="3807" y="1296" width="1269" height="216" frameX="0" frameY="0" frameWidth="1555" frameHeight="216"/>
+	<SubTexture name="dialogue10053" x="5076" y="1296" width="1269" height="216" frameX="0" frameY="0" frameWidth="1555" frameHeight="216"/>
+	<SubTexture name="dialogue10054" x="6345" y="1296" width="1269" height="216" frameX="0" frameY="0" frameWidth="1555" frameHeight="216"/>
+	<SubTexture name="dialogue10055" x="0" y="1512" width="1269" height="216" frameX="0" frameY="0" frameWidth="1555" frameHeight="216"/>
+	<SubTexture name="dialogue10056" x="1269" y="1512" width="1269" height="216" frameX="0" frameY="0" frameWidth="1555" frameHeight="216"/>
+	<SubTexture name="dialogue10057" x="2538" y="1512" width="1269" height="216" frameX="0" frameY="0" frameWidth="1555" frameHeight="216"/>
+	<SubTexture name="dialogue10058" x="3807" y="1512" width="1269" height="216" frameX="0" frameY="0" frameWidth="1555" frameHeight="216"/>
+	<SubTexture name="dialogue10059" x="3807" y="1512" width="1269" height="216" frameX="0" frameY="0" frameWidth="1555" frameHeight="216"/>
+	<SubTexture name="dialogue10060" x="3807" y="1512" width="1269" height="216" frameX="0" frameY="0" frameWidth="1555" frameHeight="216"/>
+	<SubTexture name="dialogue10061" x="3807" y="1512" width="1269" height="216" frameX="0" frameY="0" frameWidth="1555" frameHeight="216"/>
+	<SubTexture name="dialogue10062" x="3807" y="1512" width="1269" height="216" frameX="0" frameY="0" frameWidth="1555" frameHeight="216"/>
+	<SubTexture name="dialogue10063" x="3807" y="1512" width="1269" height="216" frameX="0" frameY="0" frameWidth="1555" frameHeight="216"/>
+	<SubTexture name="dialogue10064" x="3807" y="1512" width="1269" height="216" frameX="0" frameY="0" frameWidth="1555" frameHeight="216"/>
+	<SubTexture name="dialogue10065" x="3807" y="1512" width="1269" height="216" frameX="0" frameY="0" frameWidth="1555" frameHeight="216"/>
+	<SubTexture name="dialogue10066" x="3807" y="1512" width="1269" height="216" frameX="0" frameY="0" frameWidth="1555" frameHeight="216"/>
+	<SubTexture name="dialogue10067" x="3807" y="1512" width="1269" height="216" frameX="0" frameY="0" frameWidth="1555" frameHeight="216"/>
+	<SubTexture name="dialogue10068" x="3807" y="1512" width="1269" height="216" frameX="0" frameY="0" frameWidth="1555" frameHeight="216"/>
+	<SubTexture name="dialogue10069" x="3807" y="1512" width="1269" height="216" frameX="0" frameY="0" frameWidth="1555" frameHeight="216"/>
+	<SubTexture name="dialogue10070" x="3807" y="1512" width="1269" height="216" frameX="0" frameY="0" frameWidth="1555" frameHeight="216"/>
+	<SubTexture name="dialogue10071" x="3807" y="1512" width="1269" height="216" frameX="0" frameY="0" frameWidth="1555" frameHeight="216"/>
+	<SubTexture name="dialogue10072" x="3807" y="1512" width="1269" height="216" frameX="0" frameY="0" frameWidth="1555" frameHeight="216"/>
+	<SubTexture name="dialogue10073" x="3807" y="1512" width="1269" height="216" frameX="0" frameY="0" frameWidth="1555" frameHeight="216"/>
+	<SubTexture name="dialogue10074" x="3807" y="1512" width="1269" height="216" frameX="0" frameY="0" frameWidth="1555" frameHeight="216"/>
+	<SubTexture name="dialogue10075" x="3807" y="1512" width="1269" height="216" frameX="0" frameY="0" frameWidth="1555" frameHeight="216"/>
+	<SubTexture name="dialogue10076" x="3807" y="1512" width="1269" height="216" frameX="0" frameY="0" frameWidth="1555" frameHeight="216"/>
+	<SubTexture name="dialogue10077" x="3807" y="1512" width="1269" height="216" frameX="0" frameY="0" frameWidth="1555" frameHeight="216"/>
+	<SubTexture name="dialogue10078" x="3807" y="1512" width="1269" height="216" frameX="0" frameY="0" frameWidth="1555" frameHeight="216"/>
+	<SubTexture name="dialogue10079" x="3807" y="1512" width="1269" height="216" frameX="0" frameY="0" frameWidth="1555" frameHeight="216"/>
+	<SubTexture name="dialogue10080" x="3807" y="1512" width="1269" height="216" frameX="0" frameY="0" frameWidth="1555" frameHeight="216"/>
+	<SubTexture name="dialogue10081" x="3807" y="1512" width="1269" height="216" frameX="0" frameY="0" frameWidth="1555" frameHeight="216"/>
+	<SubTexture name="dialogue10082" x="3807" y="1512" width="1269" height="216" frameX="0" frameY="0" frameWidth="1555" frameHeight="216"/>
+	<SubTexture name="dialogue10083" x="3807" y="1512" width="1269" height="216" frameX="0" frameY="0" frameWidth="1555" frameHeight="216"/>
+	<SubTexture name="dialogue10084" x="3807" y="1512" width="1269" height="216" frameX="0" frameY="0" frameWidth="1555" frameHeight="216"/>
+	<SubTexture name="dialogue10085" x="3807" y="1512" width="1269" height="216" frameX="0" frameY="0" frameWidth="1555" frameHeight="216"/>
+	<SubTexture name="dialogue10086" x="3807" y="1512" width="1269" height="216" frameX="0" frameY="0" frameWidth="1555" frameHeight="216"/>
+	<SubTexture name="dialogue10087" x="3807" y="1512" width="1269" height="216" frameX="0" frameY="0" frameWidth="1555" frameHeight="216"/>
+	<SubTexture name="dialogue10088" x="3807" y="1512" width="1269" height="216" frameX="0" frameY="0" frameWidth="1555" frameHeight="216"/>
+	<SubTexture name="dialogue10089" x="3807" y="1512" width="1269" height="216" frameX="0" frameY="0" frameWidth="1555" frameHeight="216"/>
+	<SubTexture name="dialogue10090" x="3807" y="1512" width="1269" height="216" frameX="0" frameY="0" frameWidth="1555" frameHeight="216"/>
+	<SubTexture name="dialogue10091" x="5076" y="1512" width="1222" height="216" frameX="0" frameY="0" frameWidth="1555" frameHeight="216"/>
+	<SubTexture name="dialogue10092" x="6298" y="1512" width="1269" height="216" frameX="0" frameY="0" frameWidth="1555" frameHeight="216"/>
+	<SubTexture name="dialogue10093" x="0" y="1728" width="1269" height="216" frameX="0" frameY="0" frameWidth="1555" frameHeight="216"/>
+	<SubTexture name="dialogue10094" x="1269" y="1728" width="1269" height="216" frameX="0" frameY="0" frameWidth="1555" frameHeight="216"/>
+	<SubTexture name="dialogue10095" x="2538" y="1728" width="1269" height="216" frameX="0" frameY="0" frameWidth="1555" frameHeight="216"/>
+	<SubTexture name="dialogue10096" x="3807" y="1728" width="1269" height="216" frameX="0" frameY="0" frameWidth="1555" frameHeight="216"/>
+	<SubTexture name="dialogue10097" x="5076" y="1728" width="1269" height="216" frameX="0" frameY="0" frameWidth="1555" frameHeight="216"/>
+	<SubTexture name="dialogue10098" x="6345" y="1728" width="1269" height="216" frameX="0" frameY="0" frameWidth="1555" frameHeight="216"/>
+	<SubTexture name="dialogue10099" x="0" y="1944" width="1269" height="216" frameX="0" frameY="0" frameWidth="1555" frameHeight="216"/>
+	<SubTexture name="dialogue10100" x="0" y="1944" width="1269" height="216" frameX="0" frameY="0" frameWidth="1555" frameHeight="216"/>
+	<SubTexture name="dialogue10101" x="0" y="1944" width="1269" height="216" frameX="0" frameY="0" frameWidth="1555" frameHeight="216"/>
+	<SubTexture name="dialogue10102" x="0" y="1944" width="1269" height="216" frameX="0" frameY="0" frameWidth="1555" frameHeight="216"/>
+	<SubTexture name="dialogue10103" x="0" y="1944" width="1269" height="216" frameX="0" frameY="0" frameWidth="1555" frameHeight="216"/>
+	<SubTexture name="dialogue10104" x="0" y="1944" width="1269" height="216" frameX="0" frameY="0" frameWidth="1555" frameHeight="216"/>
+	<SubTexture name="dialogue10105" x="0" y="1944" width="1269" height="216" frameX="0" frameY="0" frameWidth="1555" frameHeight="216"/>
+	<SubTexture name="dialogue10106" x="1269" y="1944" width="1269" height="216" frameX="0" frameY="0" frameWidth="1555" frameHeight="216"/>
+	<SubTexture name="dialogue10107" x="2538" y="1944" width="1269" height="216" frameX="0" frameY="0" frameWidth="1555" frameHeight="216"/>
+	<SubTexture name="dialogue10108" x="3807" y="1944" width="1269" height="216" frameX="0" frameY="0" frameWidth="1555" frameHeight="216"/>
+	<SubTexture name="dialogue10109" x="5076" y="1944" width="1269" height="216" frameX="0" frameY="0" frameWidth="1555" frameHeight="216"/>
+	<SubTexture name="dialogue10110" x="6345" y="1944" width="1269" height="216" frameX="0" frameY="0" frameWidth="1555" frameHeight="216"/>
+	<SubTexture name="dialogue10111" x="0" y="2160" width="1269" height="216" frameX="0" frameY="0" frameWidth="1555" frameHeight="216"/>
+	<SubTexture name="dialogue10112" x="1269" y="2160" width="1269" height="216" frameX="0" frameY="0" frameWidth="1555" frameHeight="216"/>
+	<SubTexture name="dialogue10113" x="1269" y="2160" width="1269" height="216" frameX="0" frameY="0" frameWidth="1555" frameHeight="216"/>
+	<SubTexture name="dialogue10114" x="1269" y="2160" width="1269" height="216" frameX="0" frameY="0" frameWidth="1555" frameHeight="216"/>
+	<SubTexture name="dialogue10115" x="1269" y="2160" width="1269" height="216" frameX="0" frameY="0" frameWidth="1555" frameHeight="216"/>
+	<SubTexture name="dialogue10116" x="1269" y="2160" width="1269" height="216" frameX="0" frameY="0" frameWidth="1555" frameHeight="216"/>
+	<SubTexture name="dialogue10117" x="1269" y="2160" width="1269" height="216" frameX="0" frameY="0" frameWidth="1555" frameHeight="216"/>
+	<SubTexture name="dialogue10118" x="1269" y="2160" width="1269" height="216" frameX="0" frameY="0" frameWidth="1555" frameHeight="216"/>
+	<SubTexture name="dialogue10119" x="1269" y="2160" width="1269" height="216" frameX="0" frameY="0" frameWidth="1555" frameHeight="216"/>
+	<SubTexture name="dialogue10120" x="1269" y="2160" width="1269" height="216" frameX="0" frameY="0" frameWidth="1555" frameHeight="216"/>
+	<SubTexture name="dialogue10121" x="1269" y="2160" width="1269" height="216" frameX="0" frameY="0" frameWidth="1555" frameHeight="216"/>
+	<SubTexture name="dialogue10122" x="1269" y="2160" width="1269" height="216" frameX="0" frameY="0" frameWidth="1555" frameHeight="216"/>
+	<SubTexture name="dialogue10123" x="1269" y="2160" width="1269" height="216" frameX="0" frameY="0" frameWidth="1555" frameHeight="216"/>
+	<SubTexture name="dialogue10124" x="1269" y="2160" width="1269" height="216" frameX="0" frameY="0" frameWidth="1555" frameHeight="216"/>
+	<SubTexture name="dialogue10125" x="1269" y="2160" width="1269" height="216" frameX="0" frameY="0" frameWidth="1555" frameHeight="216"/>
+	<SubTexture name="dialogue10126" x="1269" y="2160" width="1269" height="216" frameX="0" frameY="0" frameWidth="1555" frameHeight="216"/>
+	<SubTexture name="dialogue10127" x="1269" y="2160" width="1269" height="216" frameX="0" frameY="0" frameWidth="1555" frameHeight="216"/>
+	<SubTexture name="dialogue10128" x="1269" y="2160" width="1269" height="216" frameX="0" frameY="0" frameWidth="1555" frameHeight="216"/>
+	<SubTexture name="dialogue10129" x="1269" y="2160" width="1269" height="216" frameX="0" frameY="0" frameWidth="1555" frameHeight="216"/>
+	<SubTexture name="dialogue10130" x="1269" y="2160" width="1269" height="216" frameX="0" frameY="0" frameWidth="1555" frameHeight="216"/>
+	<SubTexture name="dialogue10131" x="1269" y="2160" width="1269" height="216" frameX="0" frameY="0" frameWidth="1555" frameHeight="216"/>
+	<SubTexture name="dialogue10132" x="1269" y="2160" width="1269" height="216" frameX="0" frameY="0" frameWidth="1555" frameHeight="216"/>
+	<SubTexture name="dialogue10133" x="1269" y="2160" width="1269" height="216" frameX="0" frameY="0" frameWidth="1555" frameHeight="216"/>
+	<SubTexture name="dialogue10134" x="1269" y="2160" width="1269" height="216" frameX="0" frameY="0" frameWidth="1555" frameHeight="216"/>
+	<SubTexture name="dialogue10135" x="1269" y="2160" width="1269" height="216" frameX="0" frameY="0" frameWidth="1555" frameHeight="216"/>
+	<SubTexture name="dialogue10136" x="1269" y="2160" width="1269" height="216" frameX="0" frameY="0" frameWidth="1555" frameHeight="216"/>
+	<SubTexture name="dialogue10137" x="1269" y="2160" width="1269" height="216" frameX="0" frameY="0" frameWidth="1555" frameHeight="216"/>
+	<SubTexture name="dialogue10138" x="1269" y="2160" width="1269" height="216" frameX="0" frameY="0" frameWidth="1555" frameHeight="216"/>
+	<SubTexture name="dialogue10139" x="1269" y="2160" width="1269" height="216" frameX="0" frameY="0" frameWidth="1555" frameHeight="216"/>
+	<SubTexture name="dialogue10140" x="1269" y="2160" width="1269" height="216" frameX="0" frameY="0" frameWidth="1555" frameHeight="216"/>
+	<SubTexture name="dialogue10141" x="1269" y="2160" width="1269" height="216" frameX="0" frameY="0" frameWidth="1555" frameHeight="216"/>
+	<SubTexture name="dialogue10142" x="1269" y="2160" width="1269" height="216" frameX="0" frameY="0" frameWidth="1555" frameHeight="216"/>
+	<SubTexture name="dialogue10143" x="1269" y="2160" width="1269" height="216" frameX="0" frameY="0" frameWidth="1555" frameHeight="216"/>
+	<SubTexture name="dialogue10144" x="2538" y="2160" width="1269" height="216" frameX="0" frameY="0" frameWidth="1555" frameHeight="216"/>
+	<SubTexture name="dialogue10145" x="3807" y="2160" width="1269" height="216" frameX="0" frameY="0" frameWidth="1555" frameHeight="216"/>
+	<SubTexture name="dialogue10146" x="5076" y="2160" width="1269" height="216" frameX="0" frameY="0" frameWidth="1555" frameHeight="216"/>
+	<SubTexture name="dialogue10147" x="6345" y="2160" width="1269" height="216" frameX="0" frameY="0" frameWidth="1555" frameHeight="216"/>
+	<SubTexture name="dialogue10148" x="6345" y="2160" width="1269" height="216" frameX="0" frameY="0" frameWidth="1555" frameHeight="216"/>
+	<SubTexture name="dialogue10149" x="6345" y="2160" width="1269" height="216" frameX="0" frameY="0" frameWidth="1555" frameHeight="216"/>
+	<SubTexture name="dialogue10150" x="6345" y="2160" width="1269" height="216" frameX="0" frameY="0" frameWidth="1555" frameHeight="216"/>
+	<SubTexture name="dialogue10151" x="6345" y="2160" width="1269" height="216" frameX="0" frameY="0" frameWidth="1555" frameHeight="216"/>
+	<SubTexture name="dialogue10152" x="6345" y="2160" width="1269" height="216" frameX="0" frameY="0" frameWidth="1555" frameHeight="216"/>
+	<SubTexture name="dialogue10153" x="6345" y="2160" width="1269" height="216" frameX="0" frameY="0" frameWidth="1555" frameHeight="216"/>
+	<SubTexture name="dialogue10154" x="6345" y="2160" width="1269" height="216" frameX="0" frameY="0" frameWidth="1555" frameHeight="216"/>
+	<SubTexture name="dialogue10155" x="6345" y="2160" width="1269" height="216" frameX="0" frameY="0" frameWidth="1555" frameHeight="216"/>
+	<SubTexture name="dialogue10156" x="6345" y="2160" width="1269" height="216" frameX="0" frameY="0" frameWidth="1555" frameHeight="216"/>
+	<SubTexture name="dialogue10157" x="6345" y="2160" width="1269" height="216" frameX="0" frameY="0" frameWidth="1555" frameHeight="216"/>
+	<SubTexture name="dialogue10158" x="6345" y="2160" width="1269" height="216" frameX="0" frameY="0" frameWidth="1555" frameHeight="216"/>
+	<SubTexture name="dialogue10159" x="6345" y="2160" width="1269" height="216" frameX="0" frameY="0" frameWidth="1555" frameHeight="216"/>
+	<SubTexture name="dialogue10160" x="6345" y="2160" width="1269" height="216" frameX="0" frameY="0" frameWidth="1555" frameHeight="216"/>
+	<SubTexture name="dialogue10161" x="6345" y="2160" width="1269" height="216" frameX="0" frameY="0" frameWidth="1555" frameHeight="216"/>
+	<SubTexture name="dialogue10162" x="6345" y="2160" width="1269" height="216" frameX="0" frameY="0" frameWidth="1555" frameHeight="216"/>
+	<SubTexture name="dialogue10163" x="6345" y="2160" width="1269" height="216" frameX="0" frameY="0" frameWidth="1555" frameHeight="216"/>
+	<SubTexture name="dialogue10164" x="6345" y="2160" width="1269" height="216" frameX="0" frameY="0" frameWidth="1555" frameHeight="216"/>
+	<SubTexture name="dialogue10165" x="6345" y="2160" width="1269" height="216" frameX="0" frameY="0" frameWidth="1555" frameHeight="216"/>
+	<SubTexture name="dialogue10166" x="6345" y="2160" width="1269" height="216" frameX="0" frameY="0" frameWidth="1555" frameHeight="216"/>
+	<SubTexture name="dialogue10167" x="6345" y="2160" width="1269" height="216" frameX="0" frameY="0" frameWidth="1555" frameHeight="216"/>
+	<SubTexture name="dialogue10168" x="6345" y="2160" width="1269" height="216" frameX="0" frameY="0" frameWidth="1555" frameHeight="216"/>
+	<SubTexture name="dialogue10169" x="6345" y="2160" width="1269" height="216" frameX="0" frameY="0" frameWidth="1555" frameHeight="216"/>
+	<SubTexture name="dialogue10170" x="6345" y="2160" width="1269" height="216" frameX="0" frameY="0" frameWidth="1555" frameHeight="216"/>
+	<SubTexture name="dialogue10171" x="6345" y="2160" width="1269" height="216" frameX="0" frameY="0" frameWidth="1555" frameHeight="216"/>
+	<SubTexture name="dialogue10172" x="6345" y="2160" width="1269" height="216" frameX="0" frameY="0" frameWidth="1555" frameHeight="216"/>
+	<SubTexture name="dialogue10173" x="5076" y="1512" width="1222" height="216" frameX="0" frameY="0" frameWidth="1555" frameHeight="216"/>
+	<SubTexture name="dialogue10174" x="5076" y="1512" width="1222" height="216" frameX="0" frameY="0" frameWidth="1555" frameHeight="216"/>
+	<SubTexture name="dialogue10175" x="5076" y="1512" width="1222" height="216" frameX="0" frameY="0" frameWidth="1555" frameHeight="216"/>
+	<SubTexture name="dialogue10176" x="5076" y="1512" width="1222" height="216" frameX="0" frameY="0" frameWidth="1555" frameHeight="216"/>
+	<SubTexture name="dialogue10177" x="5076" y="1512" width="1222" height="216" frameX="0" frameY="0" frameWidth="1555" frameHeight="216"/>
+	<SubTexture name="dialogue10178" x="5076" y="1512" width="1222" height="216" frameX="0" frameY="0" frameWidth="1555" frameHeight="216"/>
+	<SubTexture name="dialogue10179" x="5076" y="1512" width="1222" height="216" frameX="0" frameY="0" frameWidth="1555" frameHeight="216"/>
+	<SubTexture name="dialogue10180" x="5076" y="1512" width="1222" height="216" frameX="0" frameY="0" frameWidth="1555" frameHeight="216"/>
+	<SubTexture name="dialogue10181" x="5076" y="1512" width="1222" height="216" frameX="0" frameY="0" frameWidth="1555" frameHeight="216"/>
+	<SubTexture name="dialogue10182" x="5076" y="1512" width="1222" height="216" frameX="0" frameY="0" frameWidth="1555" frameHeight="216"/>
+	<SubTexture name="dialogue10183" x="5076" y="1512" width="1222" height="216" frameX="0" frameY="0" frameWidth="1555" frameHeight="216"/>
+	<SubTexture name="dialogue10184" x="5076" y="1512" width="1222" height="216" frameX="0" frameY="0" frameWidth="1555" frameHeight="216"/>
+	<SubTexture name="dialogue10185" x="5076" y="1512" width="1222" height="216" frameX="0" frameY="0" frameWidth="1555" frameHeight="216"/>
+	<SubTexture name="dialogue10186" x="5076" y="1512" width="1222" height="216" frameX="0" frameY="0" frameWidth="1555" frameHeight="216"/>
+	<SubTexture name="dialogue10187" x="5076" y="1512" width="1222" height="216" frameX="0" frameY="0" frameWidth="1555" frameHeight="216"/>
+	<SubTexture name="dialogue10188" x="5076" y="1512" width="1222" height="216" frameX="0" frameY="0" frameWidth="1555" frameHeight="216"/>
+	<SubTexture name="dialogue10189" x="5076" y="1512" width="1222" height="216" frameX="0" frameY="0" frameWidth="1555" frameHeight="216"/>
+	<SubTexture name="dialogue10190" x="5076" y="1512" width="1222" height="216" frameX="0" frameY="0" frameWidth="1555" frameHeight="216"/>
+	<SubTexture name="dialogue10191" x="5076" y="1512" width="1222" height="216" frameX="0" frameY="0" frameWidth="1555" frameHeight="216"/>
+	<SubTexture name="dialogue10192" x="5076" y="1512" width="1222" height="216" frameX="0" frameY="0" frameWidth="1555" frameHeight="216"/>
+	<SubTexture name="dialogue10193" x="5076" y="1512" width="1222" height="216" frameX="0" frameY="0" frameWidth="1555" frameHeight="216"/>
+	<SubTexture name="dialogue10194" x="5076" y="1512" width="1222" height="216" frameX="0" frameY="0" frameWidth="1555" frameHeight="216"/>
+	<SubTexture name="dialogue10195" x="5076" y="1512" width="1222" height="216" frameX="0" frameY="0" frameWidth="1555" frameHeight="216"/>
+	<SubTexture name="dialogue10196" x="5076" y="1512" width="1222" height="216" frameX="0" frameY="0" frameWidth="1555" frameHeight="216"/>
+	<SubTexture name="dialogue10197" x="5076" y="1512" width="1222" height="216" frameX="0" frameY="0" frameWidth="1555" frameHeight="216"/>
+	<SubTexture name="dialogue10198" x="0" y="2376" width="1555" height="216"/>
+	<SubTexture name="dialogue10199" x="1555" y="2376" width="1555" height="216"/>
+	<SubTexture name="dialogue10200" x="3110" y="2376" width="1555" height="216"/>
+	<SubTexture name="dialogue10201" x="4665" y="2376" width="1555" height="216"/>
+	<SubTexture name="dialogue10202" x="4665" y="2376" width="1555" height="216"/>
+	<SubTexture name="dialogue10203" x="4665" y="2376" width="1555" height="216"/>
+	<SubTexture name="dialogue10204" x="4665" y="2376" width="1555" height="216"/>
+	<SubTexture name="dialogue10205" x="6220" y="2376" width="1555" height="216"/>
+	<SubTexture name="dialogue10206" x="0" y="2592" width="1555" height="216"/>
+	<SubTexture name="dialogue10207" x="1555" y="2592" width="1555" height="216"/>
+	<SubTexture name="dialogue10208" x="3110" y="2592" width="1555" height="216"/>
+	<SubTexture name="dialogue10209" x="4665" y="2592" width="1555" height="216"/>
+	<SubTexture name="dialogue10210" x="6220" y="2592" width="1555" height="216"/>
+	<SubTexture name="dialogue10211" x="6220" y="2592" width="1555" height="216"/>
+	<SubTexture name="dialogue10212" x="6220" y="2592" width="1555" height="216"/>
+	<SubTexture name="dialogue10213" x="6220" y="2592" width="1555" height="216"/>
+	<SubTexture name="dialogue10214" x="6220" y="2592" width="1555" height="216"/>
+	<SubTexture name="dialogue10215" x="6220" y="2592" width="1555" height="216"/>
+	<SubTexture name="dialogue10216" x="6220" y="2592" width="1555" height="216"/>
+	<SubTexture name="dialogue10217" x="6220" y="2592" width="1555" height="216"/>
+	<SubTexture name="dialogue10218" x="6220" y="2592" width="1555" height="216"/>
+	<SubTexture name="dialogue10219" x="6220" y="2592" width="1555" height="216"/>
+	<SubTexture name="dialogue10220" x="6220" y="2592" width="1555" height="216"/>
+	<SubTexture name="dialogue10221" x="6220" y="2592" width="1555" height="216"/>
+	<SubTexture name="dialogue10222" x="6220" y="2592" width="1555" height="216"/>
+	<SubTexture name="dialogue10223" x="6220" y="2592" width="1555" height="216"/>
+	<SubTexture name="dialogue10224" x="6220" y="2592" width="1555" height="216"/>
+	<SubTexture name="dialogue10225" x="6220" y="2592" width="1555" height="216"/>
+	<SubTexture name="dialogue10226" x="6220" y="2592" width="1555" height="216"/>
+	<SubTexture name="dialogue10227" x="6220" y="2592" width="1555" height="216"/>
+	<SubTexture name="dialogue10228" x="6220" y="2592" width="1555" height="216"/>
+	<SubTexture name="dialogue10229" x="6220" y="2592" width="1555" height="216"/>
+	<SubTexture name="dialogue10230" x="6220" y="2592" width="1555" height="216"/>
+	<SubTexture name="dialogue10231" x="6220" y="2592" width="1555" height="216"/>
+	<SubTexture name="dialogue10232" x="6220" y="2592" width="1555" height="216"/>
+	<SubTexture name="dialogue10233" x="6220" y="2592" width="1555" height="216"/>
+	<SubTexture name="dialogue10234" x="6220" y="2592" width="1555" height="216"/>
+	<SubTexture name="dialogue10235" x="6220" y="2592" width="1555" height="216"/>
+	<SubTexture name="dialogue10236" x="6220" y="2592" width="1555" height="216"/>
+	<SubTexture name="dialogue10237" x="6220" y="2592" width="1555" height="216"/>
+	<SubTexture name="dialogue10238" x="6220" y="2592" width="1555" height="216"/>
+	<SubTexture name="dialogue10239" x="6220" y="2592" width="1555" height="216"/>
+	<SubTexture name="dialogue10240" x="6220" y="2592" width="1555" height="216"/>
+	<SubTexture name="dialogue10241" x="0" y="2808" width="1555" height="216"/>
+	<SubTexture name="dialogue10242" x="1555" y="2808" width="1555" height="216"/>
+	<SubTexture name="dialogue10243" x="3110" y="2808" width="1555" height="216"/>
+	<SubTexture name="dialogue10244" x="4665" y="2808" width="1555" height="216"/>
+	<SubTexture name="dialogue10245" x="6220" y="2808" width="1555" height="216"/>
+	<SubTexture name="dialogue10246" x="0" y="3024" width="1555" height="216"/>
+	<SubTexture name="dialogue10247" x="1555" y="3024" width="1555" height="216"/>
+	<SubTexture name="dialogue10248" x="1555" y="3024" width="1555" height="216"/>
+	<SubTexture name="dialogue10249" x="3110" y="3024" width="1555" height="216"/>
+	<SubTexture name="dialogue10250" x="4665" y="3024" width="1555" height="216"/>
+	<SubTexture name="dialogue10251" x="6220" y="3024" width="1555" height="216"/>
+	<SubTexture name="dialogue10252" x="0" y="3240" width="1555" height="216"/>
+	<SubTexture name="dialogue10253" x="0" y="3240" width="1555" height="216"/>
+	<SubTexture name="dialogue10254" x="0" y="3240" width="1555" height="216"/>
+	<SubTexture name="dialogue10255" x="0" y="3240" width="1555" height="216"/>
+	<SubTexture name="dialogue10256" x="1555" y="3240" width="1555" height="216"/>
+	<SubTexture name="dialogue10257" x="3110" y="3240" width="1555" height="216"/>
+	<SubTexture name="dialogue10258" x="4665" y="3240" width="1555" height="216"/>
+	<SubTexture name="dialogue10259" x="6220" y="3240" width="1555" height="216"/>
+	<SubTexture name="dialogue10260" x="0" y="3456" width="1555" height="216"/>
+	<SubTexture name="dialogue10261" x="1555" y="3456" width="1555" height="216"/>
+	<SubTexture name="dialogue10262" x="3110" y="3456" width="1555" height="216"/>
+	<SubTexture name="dialogue10263" x="4665" y="3456" width="1555" height="216"/>
+	<SubTexture name="dialogue10264" x="6220" y="3456" width="1555" height="216"/>
+	<SubTexture name="dialogue10265" x="0" y="3672" width="1555" height="216"/>
+	<SubTexture name="dialogue10266" x="1555" y="3672" width="1555" height="216"/>
+	<SubTexture name="dialogue10267" x="1555" y="3672" width="1555" height="216"/>
+	<SubTexture name="dialogue10268" x="1555" y="3672" width="1555" height="216"/>
+	<SubTexture name="dialogue10269" x="1555" y="3672" width="1555" height="216"/>
+	<SubTexture name="dialogue10270" x="1555" y="3672" width="1555" height="216"/>
+	<SubTexture name="dialogue10271" x="1555" y="3672" width="1555" height="216"/>
+	<SubTexture name="dialogue10272" x="1555" y="3672" width="1555" height="216"/>
+	<SubTexture name="dialogue10273" x="1555" y="3672" width="1555" height="216"/>
+	<SubTexture name="dialogue10274" x="1555" y="3672" width="1555" height="216"/>
+	<SubTexture name="dialogue10275" x="1555" y="3672" width="1555" height="216"/>
+	<SubTexture name="dialogue10276" x="1555" y="3672" width="1555" height="216"/>
+	<SubTexture name="dialogue10277" x="1555" y="3672" width="1555" height="216"/>
+	<SubTexture name="dialogue10278" x="1555" y="3672" width="1555" height="216"/>
+	<SubTexture name="dialogue10279" x="1555" y="3672" width="1555" height="216"/>
+	<SubTexture name="dialogue10280" x="1555" y="3672" width="1555" height="216"/>
+	<SubTexture name="dialogue10281" x="1555" y="3672" width="1555" height="216"/>
+	<SubTexture name="dialogue10282" x="1555" y="3672" width="1555" height="216"/>
+	<SubTexture name="dialogue10283" x="1555" y="3672" width="1555" height="216"/>
+	<SubTexture name="dialogue10284" x="1555" y="3672" width="1555" height="216"/>
+	<SubTexture name="dialogue10285" x="1555" y="3672" width="1555" height="216"/>
+	<SubTexture name="dialogue10286" x="1555" y="3672" width="1555" height="216"/>
+	<SubTexture name="dialogue10287" x="1555" y="3672" width="1555" height="216"/>
+	<SubTexture name="dialogue10288" x="1555" y="3672" width="1555" height="216"/>
+	<SubTexture name="dialogue10289" x="1555" y="3672" width="1555" height="216"/>
+	<SubTexture name="dialogue10290" x="1555" y="3672" width="1555" height="216"/>
+	<SubTexture name="dialogue10291" x="1555" y="3672" width="1555" height="216"/>
+	<SubTexture name="dialogue10292" x="1555" y="3672" width="1555" height="216"/>
+	<SubTexture name="dialogue10293" x="1555" y="3672" width="1555" height="216"/>
+	<SubTexture name="dialogue10294" x="1555" y="3672" width="1555" height="216"/>
+	<SubTexture name="dialogue10295" x="1555" y="3672" width="1555" height="216"/>
+	<SubTexture name="dialogue10296" x="1555" y="3672" width="1555" height="216"/>
+	<SubTexture name="dialogue10297" x="1555" y="3672" width="1555" height="216"/>
+	<SubTexture name="dialogue10298" x="1555" y="3672" width="1555" height="216"/>
+	<SubTexture name="dialogue10299" x="1555" y="3672" width="1555" height="216"/>
+	<SubTexture name="dialogue10300" x="1555" y="3672" width="1555" height="216"/>
+	<SubTexture name="dialogue10301" x="3110" y="3672" width="1555" height="216"/>
+	<SubTexture name="dialogue10302" x="4665" y="3672" width="1555" height="216"/>
+	<SubTexture name="dialogue10303" x="6220" y="3672" width="1555" height="216"/>
+	<SubTexture name="dialogue10304" x="0" y="3888" width="1555" height="216"/>
+	<SubTexture name="dialogue10305" x="1555" y="3888" width="1555" height="216"/>
+	<SubTexture name="dialogue10306" x="3110" y="3888" width="1555" height="216"/>
+	<SubTexture name="dialogue10307" x="4665" y="3888" width="1555" height="216"/>
+	<SubTexture name="dialogue10308" x="6220" y="3888" width="1555" height="216"/>
+	<SubTexture name="dialogue10309" x="0" y="4104" width="1555" height="216"/>
+	<SubTexture name="dialogue10310" x="1555" y="4104" width="1555" height="216"/>
+	<SubTexture name="dialogue10311" x="3110" y="4104" width="1555" height="216"/>
+	<SubTexture name="dialogue10312" x="4665" y="4104" width="1555" height="216"/>
+	<SubTexture name="dialogue10313" x="6220" y="4104" width="1555" height="216"/>
+	<SubTexture name="dialogue10314" x="0" y="4320" width="1555" height="216"/>
+	<SubTexture name="dialogue10315" x="1555" y="4320" width="1555" height="216"/>
+	<SubTexture name="dialogue10316" x="3110" y="4320" width="1555" height="216"/>
+	<SubTexture name="dialogue10317" x="4665" y="4320" width="1555" height="216"/>
+	<SubTexture name="dialogue10318" x="4665" y="4320" width="1555" height="216"/>
+	<SubTexture name="dialogue10319" x="4665" y="4320" width="1555" height="216"/>
+	<SubTexture name="dialogue10320" x="4665" y="4320" width="1555" height="216"/>
+	<SubTexture name="dialogue10321" x="4665" y="4320" width="1555" height="216"/>
+	<SubTexture name="dialogue10322" x="4665" y="4320" width="1555" height="216"/>
+	<SubTexture name="dialogue10323" x="4665" y="4320" width="1555" height="216"/>
+	<SubTexture name="dialogue10324" x="4665" y="4320" width="1555" height="216"/>
+	<SubTexture name="dialogue10325" x="4665" y="4320" width="1555" height="216"/>
+	<SubTexture name="dialogue10326" x="4665" y="4320" width="1555" height="216"/>
+	<SubTexture name="dialogue10327" x="4665" y="4320" width="1555" height="216"/>
+	<SubTexture name="dialogue10328" x="4665" y="4320" width="1555" height="216"/>
+	<SubTexture name="dialogue10329" x="4665" y="4320" width="1555" height="216"/>
+	<SubTexture name="dialogue10330" x="4665" y="4320" width="1555" height="216"/>
+	<SubTexture name="dialogue10331" x="4665" y="4320" width="1555" height="216"/>
+	<SubTexture name="dialogue10332" x="4665" y="4320" width="1555" height="216"/>
+	<SubTexture name="dialogue10333" x="4665" y="4320" width="1555" height="216"/>
+	<SubTexture name="dialogue10334" x="4665" y="4320" width="1555" height="216"/>
+	<SubTexture name="dialogue10335" x="4665" y="4320" width="1555" height="216"/>
+	<SubTexture name="dialogue10336" x="4665" y="4320" width="1555" height="216"/>
+	<SubTexture name="dialogue10337" x="4665" y="4320" width="1555" height="216"/>
+	<SubTexture name="dialogue10338" x="4665" y="4320" width="1555" height="216"/>
+	<SubTexture name="dialogue10339" x="4665" y="4320" width="1555" height="216"/>
+	<SubTexture name="dialogue10340" x="4665" y="4320" width="1555" height="216"/>
+	<SubTexture name="dialogue10341" x="4665" y="4320" width="1555" height="216"/>
+	<SubTexture name="dialogue10342" x="4665" y="4320" width="1555" height="216"/>
+	<SubTexture name="dialogue10343" x="4665" y="4320" width="1555" height="216"/>
+	<SubTexture name="dialogue10344" x="4665" y="4320" width="1555" height="216"/>
+	<SubTexture name="dialogue10345" x="4665" y="4320" width="1555" height="216"/>
+	<SubTexture name="dialogue10346" x="4665" y="4320" width="1555" height="216"/>
+	<SubTexture name="dialogue10347" x="4665" y="4320" width="1555" height="216"/>
+	<SubTexture name="dialogue10348" x="4665" y="4320" width="1555" height="216"/>
+	<SubTexture name="dialogue10349" x="4665" y="4320" width="1555" height="216"/>
+	<SubTexture name="dialogue10350" x="4665" y="4320" width="1555" height="216"/>
+	<SubTexture name="dialogue10351" x="4665" y="4320" width="1555" height="216"/>
+	<SubTexture name="dialogue10352" x="4665" y="4320" width="1555" height="216"/>
+	<SubTexture name="dialogue10353" x="4665" y="4320" width="1555" height="216"/>
+	<SubTexture name="dialogue10354" x="4665" y="4320" width="1555" height="216"/>
+	<SubTexture name="dialogue10355" x="4665" y="4320" width="1555" height="216"/>
+	<SubTexture name="dialogue10356" x="4665" y="4320" width="1555" height="216"/>
+	<SubTexture name="dialogue10357" x="4665" y="4320" width="1555" height="216"/>
+	<SubTexture name="dialogue10358" x="4665" y="4320" width="1555" height="216"/>
+	<SubTexture name="dialogue10359" x="4665" y="4320" width="1555" height="216"/>
+	<SubTexture name="dialogue10360" x="4665" y="4320" width="1555" height="216"/>
+	<SubTexture name="dialogue10361" x="4665" y="4320" width="1555" height="216"/>
+	<SubTexture name="dialogue10362" x="4665" y="4320" width="1555" height="216"/>
+	<SubTexture name="dialogue10363" x="4665" y="4320" width="1555" height="216"/>
+	<SubTexture name="dialogue10364" x="6220" y="4320" width="1555" height="216"/>
+	<SubTexture name="dialogue10365" x="0" y="4536" width="1555" height="216"/>
+	<SubTexture name="dialogue10366" x="1555" y="4536" width="1555" height="216"/>
+	<SubTexture name="dialogue10367" x="3110" y="4536" width="1555" height="216"/>
+	<SubTexture name="dialogue10368" x="4665" y="4536" width="1555" height="216"/>
+	<SubTexture name="dialogue10369" x="6220" y="4536" width="1555" height="216"/>
+	<SubTexture name="dialogue10370" x="0" y="4752" width="1555" height="216"/>
+	<SubTexture name="dialogue10371" x="1555" y="4752" width="1555" height="216"/>
+	<SubTexture name="dialogue10372" x="3110" y="4752" width="1555" height="216"/>
+	<SubTexture name="dialogue10373" x="4665" y="4752" width="1555" height="216"/>
+	<SubTexture name="dialogue10374" x="6220" y="4752" width="1555" height="216"/>
+	<SubTexture name="dialogue10375" x="0" y="4968" width="1555" height="216"/>
+	<SubTexture name="dialogue10376" x="1555" y="4968" width="1555" height="216"/>
+	<SubTexture name="dialogue10377" x="3110" y="4968" width="1555" height="216"/>
+	<SubTexture name="dialogue10378" x="4665" y="4968" width="1555" height="216"/>
+	<SubTexture name="dialogue10379" x="6220" y="4968" width="1555" height="216"/>
+	<SubTexture name="dialogue10380" x="0" y="5184" width="1555" height="216"/>
+	<SubTexture name="dialogue10381" x="1555" y="5184" width="1555" height="216"/>
+	<SubTexture name="dialogue10382" x="3110" y="5184" width="1555" height="216"/>
+	<SubTexture name="dialogue10383" x="3110" y="5184" width="1555" height="216"/>
+	<SubTexture name="dialogue10384" x="3110" y="5184" width="1555" height="216"/>
+	<SubTexture name="dialogue10385" x="3110" y="5184" width="1555" height="216"/>
+	<SubTexture name="dialogue10386" x="3110" y="5184" width="1555" height="216"/>
+	<SubTexture name="dialogue10387" x="3110" y="5184" width="1555" height="216"/>
+	<SubTexture name="dialogue10388" x="3110" y="5184" width="1555" height="216"/>
+	<SubTexture name="dialogue10389" x="3110" y="5184" width="1555" height="216"/>
+	<SubTexture name="dialogue10390" x="3110" y="5184" width="1555" height="216"/>
+	<SubTexture name="dialogue10391" x="3110" y="5184" width="1555" height="216"/>
+	<SubTexture name="dialogue10392" x="3110" y="5184" width="1555" height="216"/>
+	<SubTexture name="dialogue10393" x="3110" y="5184" width="1555" height="216"/>
+	<SubTexture name="dialogue10394" x="3110" y="5184" width="1555" height="216"/>
+	<SubTexture name="dialogue10395" x="3110" y="5184" width="1555" height="216"/>
+	<SubTexture name="dialogue10396" x="3110" y="5184" width="1555" height="216"/>
+	<SubTexture name="dialogue10397" x="3110" y="5184" width="1555" height="216"/>
+	<SubTexture name="dialogue10398" x="3110" y="5184" width="1555" height="216"/>
+	<SubTexture name="dialogue10399" x="3110" y="5184" width="1555" height="216"/>
+	<SubTexture name="dialogue10400" x="3110" y="5184" width="1555" height="216"/>
+	<SubTexture name="dialogue10401" x="3110" y="5184" width="1555" height="216"/>
+	<SubTexture name="dialogue10402" x="3110" y="5184" width="1555" height="216"/>
+	<SubTexture name="dialogue10403" x="3110" y="5184" width="1555" height="216"/>
+	<SubTexture name="dialogue10404" x="3110" y="5184" width="1555" height="216"/>
+	<SubTexture name="dialogue10405" x="3110" y="5184" width="1555" height="216"/>
+	<SubTexture name="dialogue10406" x="3110" y="5184" width="1555" height="216"/>
+	<SubTexture name="dialogue10407" x="3110" y="5184" width="1555" height="216"/>
+	<SubTexture name="dialogue10408" x="3110" y="5184" width="1555" height="216"/>
+	<SubTexture name="dialogue10409" x="3110" y="5184" width="1555" height="216"/>
+	<SubTexture name="dialogue10410" x="5076" y="1512" width="1222" height="216" frameX="0" frameY="0" frameWidth="1555" frameHeight="216"/>
+</TextureAtlas>

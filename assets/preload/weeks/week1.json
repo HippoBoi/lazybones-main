@@ -1,0 +1,22 @@
+{
+	"songs": [
+		["Snowed-In", "sans", [146, 113, 253]],
+		["Beeping-Start", "sans", [146, 113, 253]],
+		["Know-The-Deal", "sans", [146, 113, 253]]
+	],
+
+	"weekCharacters": [
+		"",
+		"bf",
+		"gf"
+	],
+	"weekBackground": "sans",
+
+	"storyName": "Snowdin",
+	"weekBefore": "tutorial",
+	"weekName": "Week 1",
+	"startUnlocked": true,
+
+	"hideStoryMode": false,
+	"hideFreeplay": false
+}
